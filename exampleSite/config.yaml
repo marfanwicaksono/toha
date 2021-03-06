@@ -81,3 +81,6 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: true
+
+  adsense:
+    client: "ca-pub-1234567890"
